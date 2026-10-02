@@ -27,12 +27,12 @@ O dashboard foi criado para facilitar a visualização e análise de informaçõ
 
 ## 📈 Dashboard
 
-![Dashboard Pet Shop](Dashboard_PetShop.png)
+![Dashboard Pet Shop](Dashboard_Pet_Shop.png)
 
 ## 📁 Arquivos
 
-- **Dashboard_PetShop.png** — imagem do dashboard.
-- **Arquivo do Power BI** — arquivo `.pbix` utilizado para desenvolver o projeto.
+- **Dashboard_Pet_Shop.png** — imagem do dashboard.
+- **Análise_PetShop.pbix** — arquivo `.pbix` utilizado para desenvolver o projeto.
 
 ## 📌 Observação
 
