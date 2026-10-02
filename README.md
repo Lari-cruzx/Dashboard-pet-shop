@@ -27,11 +27,11 @@ O dashboard foi criado para facilitar a visualização e análise de informaçõ
 
 ## 📈 Dashboard
 
-![Dashboard Pet Shop](Dashboard_Pet_Shop.png)
+![Dashboard Pet Shop](DashboardPetShop.png)
 
 ## 📁 Arquivos
 
-- **Dashboard_Pet_Shop.png** — imagem do dashboard.
+- **DashboardPetShop.png** — imagem do dashboard.
 - **Análise_PetShop.pbix** — arquivo `.pbix` utilizado para desenvolver o projeto.
 
 ## 📌 Observação
