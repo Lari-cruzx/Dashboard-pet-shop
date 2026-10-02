@@ -37,3 +37,14 @@ O dashboard foi criado para facilitar a visualização e análise de informaçõ
 ## 📌 Observação
 
 Os dados utilizados neste projeto são fictícios e foram criados exclusivamente para fins de estudo e portfólio.
+
+## 📚 Considerações finais 
+
+O desenvolvimento deste projeto possibilitou aplicar conhecimentos relacionados à organização, tratamento e análise de dados utilizando o Power BI. A construção do dashboard permitiu transformar dados fictícios em informações visuais, facilitando a compreensão de indicadores relacionados às vendas, produtos, serviços e estoque do Pet Shop.
+Além da prática com a ferramenta, o projeto contribuiu para o desenvolvimento de habilidades relacionadas à análise de dados, criação de visualizações e apresentação de informações de forma clara e objetiva. A experiência também proporcionou a aplicação de conhecimentos que podem ser utilizados em futuros projetos acadêmicos e profissionais.
+
+💛Autora
+Larissa Cruz
+Estudante de Análise e Desenvolvimento de Sistemas (ADS)
+
+Projeto desenvolvido para fins acadêmicos e de portfólio.
